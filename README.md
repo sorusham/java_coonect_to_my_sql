@@ -1,11 +1,11 @@
 <h1 align="center">java coonect to my sql</h1>
 
 <h2>Overview</h2>
-<p>This project is a <strong>Java application</strong> that calculates the GPA of students by receiving course names, credits, and grades. It connects to a <strong>MySQL database</strong> and provides both a graphical user interface (GUI) and console interface.</p>
+<p>A <strong>Java-based</strong> application designed to manage store inventory, sales, and customer data. This program connects to a <strong>MySQL database</strong> for efficient data handling.</p>
 
 <h2>Features</h2>
 <ul>
-    <li>📊 Calculates GPA based on entered course details.</li>
+    <li>📊 Product and inventory management</li>
     <li>🌐 Connects to a MySQL database to store and retrieve data.</li>
     <li>🖥️ Supports both graphical and console modes.</li>
 </ul>
